@@ -21,6 +21,7 @@ Lokale Variablen sind nur in ihrem Gültigkeitsbereich, ihrem Block gültig und 
 Sie werden mit dem Schlüsselwort `local` vor dem Variablennamen definiert.
   
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~lua
+~EXECUTABLE~
 -- Diese Variable ist nur in dieser Skriptdatei gültig
 local a = 1
 

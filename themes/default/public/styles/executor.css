@@ -1,0 +1,19 @@
+.executorHeader {
+  background-color: #aaaaaa;
+  height: 20px;
+
+  margin-top: -10px;
+  margin-left: -10px;
+  width: calc(100% + 20px);
+}
+
+.executorOutput {
+  border-top: 2px solid black !important;
+  border-radius: 0 !important;
+}
+
+.executorHeader .glyphicon-play {
+  margin-left: 5px;
+  margin-top: 2px;
+  cursor: pointer;
+}
