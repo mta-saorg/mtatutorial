@@ -1,3 +1,7 @@
+/*
+  Title: Funktionen
+  Sort: 7
+*/
 # Funktionen
 ## Motivation
 Oft ist man in der Situation, dass ein bestimmer Codeteil an bestimmten Stellen immer wieder benötigt wird (z.B. eine komplexere Berechnung).

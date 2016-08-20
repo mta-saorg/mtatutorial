@@ -1,3 +1,7 @@
+/*
+  Title: Variablen und Datentypen
+  Sort: 4
+*/
 # Variablen und Datentypen
 ## Variablen
 Variablen sollten für die meisten aus der Mathematik bereits bekannt sein. In der Programmierung lässt sich eine Variable als Platzhalter für einen bestimmten Inhalt sehen.

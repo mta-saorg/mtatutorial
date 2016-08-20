@@ -1,4 +1,8 @@
-# introduction Lua Grundlagen: Einleitung
+/*
+  Title: Einleitung
+  Sort: 0
+*/
+# Lua Grundlagen: Einleitung
 Ziel dieses Tutorial ist die Skriptsprache Lua von verschiedenen Seiten beleuchten (nicht 'LUA', sonst riskiert ihr das Risiko auf einem IRC gebannt zu werden).
     
 ## Zielgruppe

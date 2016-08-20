@@ -1,4 +1,8 @@
-# Hello world!
+/*
+  Title: Hello World!
+  Sort: 1
+*/
+# Hello World!
 Seit langem ist es Tradition jedes Programmiertutorials mit einem <i>Hello World!</i> Programm zu starten.
 Diese Regel wollen wir natürlich nicht verletzen!
 

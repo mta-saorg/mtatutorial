@@ -1,3 +1,7 @@
+/*
+  Title: Kommentare
+  Sort: 3
+*/
 # Kommentare
 Kommentare sind kurze Texte, die im Quellcode an (fast) beliebigen Stellen eingefügt werden können. Das Ziel von Kommentaren ist schwierigere Codeteile zu erklären.
 Gerade wenn im Team gearbeitet wird, ist es sehr wichtig den Code ausreichend gut zu kommentieren

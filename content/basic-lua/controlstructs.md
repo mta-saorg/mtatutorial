@@ -1,3 +1,7 @@
+/*
+  Title: Kontrollstrukturen
+  Sort: 5
+*/
 # Kontrollstrukturen
 Bisher haben wir nur Variablen definiert und auf der Konsole ausgegeben. Damit lässt sich natürlich noch nicht viel machen; vor allem, weil wir nicht in der Lage sind
 Fallunterscheidungen zu machen oder bestimmte Codeteile zu wiederholen.

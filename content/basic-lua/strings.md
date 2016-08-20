@@ -1,3 +1,7 @@
+/*
+  Title: Strings
+  Sort: 8
+*/
 # Mehr zu Strings
 In diesem Abschnitt sollen Strings noch einmal näher beleuchtet werden.   
 Zur Wiederholung: Ein String oder eine Zeichenkette ist eine beliebige Aneinanderreihung von Symbolen und

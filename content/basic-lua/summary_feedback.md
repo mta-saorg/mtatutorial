@@ -1,3 +1,7 @@
+/*
+  Title: Zusammenfassung
+  Sort: 11
+*/
 # Zusammenfassung und Feedback
 ## Zusammenfasung
 In diesem Tutorial hast du die Grundlagen der Sprache "Lua" gelernt und solltest jetzt - zumindest was die Sprache selbst betrifft - in der Lage sein, die meisten Sachen zu realisieren.   

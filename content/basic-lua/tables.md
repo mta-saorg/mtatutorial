@@ -1,3 +1,7 @@
+/*
+  Title: Tables
+  Sort: 9
+*/
 # Tables
 Tables sind definitiv das mächtigste Werkzeug, das Lua mitbringt und auch die Stelle, bei der sich Lua am meisten von anderen Skript- und Programmiersprachen unterscheidet.
 Tables fassen dabei die Konzepte von Arrays und Maps/Dictionaries aus anderen Programmiersprachen zusammen.

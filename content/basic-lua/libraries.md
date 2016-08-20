@@ -1,3 +1,7 @@
+/*
+  Title: Weitere Lua Bibliotheken
+  Sort: 10
+*/
 # Weitere Lua Biliotheken
 Lua Bibliotheken sind Erweiterungen für Lua. Die hier angesprochenen Bibliotheken werden in der Standard-Distribution von Lua
 mitgeliefert. Aus Sicherheitsgründen werden einige Bibliotheken wie die OS-Bibliothek in kritischen Anwendungen jedoch nicht geladen.

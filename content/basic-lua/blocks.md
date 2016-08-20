@@ -1,3 +1,7 @@
+/*
+  Title: Blöcke und Gültigkeitsbereiche
+  Sort: 6
+*/
 # Blöcke und Gültigkeitsbereiche
 Variablen sind eine schöne Sache; bei größeren Skripten (die schon mal locker mehrere 1000 Variablennamen haben könnne) müsste man sich schon eine besondere Konvention wie
 *meinZaehler1, meinZaehler2, meinZaehler3, ...* überlegen, um Namenskonflikte zu vermeiden.
