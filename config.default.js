@@ -27,7 +27,7 @@ var config = {
   category_sort: true,
 
   // Which Theme to Use?
-  theme_dir  : __dirname + '/../themes/',
+  theme_dir  : __dirname + '/themes/',
   theme_name : 'default',
 
   // Specify the path of your content folder where all your '.md' files are located
@@ -36,7 +36,7 @@ var config = {
   content_dir : __dirname + '/content/',
 
   // Where is the public directory or document root?
-  public_dir  : __dirname + '/../themes/default/public/',
+  public_dir  : __dirname + '/themes/default/public/',
 
   // The base URL of your images folder,
   // Relative to config.public_dir
